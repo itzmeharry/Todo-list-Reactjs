@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "checked": true,
+      "purpose": "bubu"
+    },
+    {
+      "id": 2,
+      "checked": false,
+      "purpose": "hd"
+    },
+    {
+      "id": 3,
+      "checked": false,
+      "purpose": "harideep"
+    }
+  ]
+}
